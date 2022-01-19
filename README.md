@@ -23,4 +23,4 @@ ROM вмещающий в себя все самые крутые вкуснос
 </ul>
 
 
-![alt text](screenshots/1.png "Описание будет тут")
+![alt text](screenshots/1.jpg "Описание будет тут")
